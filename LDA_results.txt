@@ -1,0 +1,8 @@
+For the bad test file, the error with bad corpus is less than error with good corpus, as seen below 
+Error with Bad corpus is:0.0337191434296
+Error with Good corpus is:0.034031364435
+_______________________________________________________________________________________________________
+For the good test file, the error with good corpus is less than error with bad corpus, as seen below 
+Error with Bad corpus is:0.0269678026433
+Error with Good corpus is:0.0202430865749
+_______________________________________________________________________________________________________
