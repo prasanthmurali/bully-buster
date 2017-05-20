@@ -1,11 +1,7 @@
 1. Download good_corpus.txt.gz and bad_corpus.txt.gz from 
 https://github.com/HackHarassment/TwitterClassifier/blob/master/data/good_corpus.txt.gz and
 https://github.com/HackHarassment/TwitterClassifier/blob/master/data/bad_corpus.txt.gz respectively.
-Unzip the files into "good_corpus.txt" and "bad_corpus.txt" and place them inside the Submissions folder.
-(The Submissions.zip is submitted, unzipping it will give Submissions folder.)
-These files contain the non abusive and abusive corpora respectively. 
-The other files needed for the project to run are already present in the 
-Submissions folder. 
+Unzip the files into "good_corpus.txt" and "bad_corpus.txt" and place them inside the downloaded folder.
 
 2. The file "Test_Data.txt" contains the testing corpora. 
 
@@ -22,8 +18,9 @@ and "bad_counts_prob.txt".
 6. The actual classifications of test tweets are written in "Test_Answers.txt", with each line number
 corresponding to the tweet number.
 
-7. The Precision Recall analysis is performed on the Naive_Bayes model and the curve is saved as PR Curve.jpg. 
-8. Post this, LDA starts. 
+7. The Precision Recall analysis is performed on the Naive_Bayes model and the curve is saved as PR Curve.jpg.
+ 
+8. Post this, LDA (Latent Dirichlet Allocation) starts. 
 
 9. LDA is performed on good and bad corpora and saved on to "good_LDA.txt" and "bad_LDA.txt".
 
